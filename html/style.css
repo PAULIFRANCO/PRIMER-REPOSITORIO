@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+header {
+    background-color: purple;
+    color: black;
+    text-align: center;
+    padding: 1em 0;
+    
+}
+header img {
+    width: 200px;
+    }
+nav ul {
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: white;
+    color: lightcoral
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 50px;
+    width: 100%;
+}
+
+/*IMAGENES DE RRSS */
+footer img {
+    width: 20px;
+}
+footer {
+    background-color: gray;
+    width: 50px;
+}
+
