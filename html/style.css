@@ -19,7 +19,20 @@ nav ul {
     padding: 20px;
     margin: 20px;
 }
+ul a{
+    color: black;
+    text-decoration: none; 
 
+}
+
+ul li{
+    padding: 2px 7px 2px 7px;
+    display: inline;
+}
+
+ul li:hover{
+    background-color: rgb(219, 77, 219);
+}
 nav li {
     display: inline;
     margin-right: 20px;
@@ -36,11 +49,12 @@ section {
 }
 
 footer {
-    background-color: white;
-    color: lightcoral
+    background-color: rgb(169, 169, 169);
+    color: lightcoral;
     text-align: center;
     padding: 1em 0;
-    position: fixed;
+    position: relative;
+    top: 50px;
     bottom: 50px;
     width: 100%;
 }
@@ -48,9 +62,14 @@ footer {
 /*IMAGENES DE RRSS */
 footer img {
     width: 20px;
-}
-footer {
-    background-color: gray;
-    width: 50px;
+    padding: 10px;
 }
 
+#calzaleggins{
+    width: 200px;
+}
+
+#calzaimg{
+    width: 200px;
+    height: 200px;
+}
