@@ -1,0 +1,83 @@
+body {
+  background: hsl(0, 0%, 100%);
+}
+
+#calzaleggins {
+  width: 200px;
+}
+
+#calzaimg {
+  width: 200px;
+  height: 200px;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+.navbar {
+  background: purple;
+  color: black;
+  text-align: center;
+  padding: 1em 0;
+}
+
+header img {
+  width: 200px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 20px;
+  margin: 20px;
+}
+
+ul a {
+  color: black;
+  text-decoration: none;
+}
+
+ul li {
+  padding: 2px 7px 2px 7px;
+  display: inline;
+}
+
+ul li:hover {
+  background-color: rgb(219, 77, 219);
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: rgb(169, 169, 169);
+  color: lightcoral;
+  text-align: center;
+  padding: 1em 0;
+  position: relative;
+  top: 50px;
+  bottom: 50px;
+  width: 100%;
+}
+
+/*IMAGENES DE RRSS */
+footer img {
+  width: 20px;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=styles.css.map */
